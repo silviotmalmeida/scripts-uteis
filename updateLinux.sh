@@ -1,4 +1,8 @@
 #!/bin/bash
+# ajustando cores
+# sudo apt install sct
+sct 4500
+
 # apt
 sudo apt update --fix-missing
 sleep 1
